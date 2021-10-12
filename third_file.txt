@@ -1,1 +1,2 @@
-this is my third file that i have added into my repository.
+this is my third file that i  my repository.
+is third file.
